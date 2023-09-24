@@ -15,6 +15,8 @@
 ---
 ### Решение 1
 
+![Скриншот-1](https://github.com/ZetIxzet/8-03-hw/blob/main/154404.png)
+
 ---
 
 ### Задание 2
@@ -31,5 +33,8 @@
 
 ---
 ### Решение 2
+
+![Скриншот-2](https://github.com/ZetIxzet/8-03-hw/blob/main/165052.png)
+![Скриншот-3](https://github.com/ZetIxzet/8-03-hw/blob/main/165044.png)
 
 ---
